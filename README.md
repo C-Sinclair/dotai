@@ -4,9 +4,7 @@ This folder contains AI-assisted development tools for improving code quality an
 
 ## How to use?
 
-- Click on the "Use this template" button
-- Create a `.ai` folder in your repository
-- Move the content of this template into the `.ai` folder
+CLI is coming soon...
 
 ## Codex
 
@@ -60,19 +58,15 @@ The AI will generate and read status files in [status](status) to maintain proje
 
 Blueprints are comprehensive guides for implementing specific technical architectures or project setups. They provide step-by-step instructions for installing, configuring, and integrating various technologies to create a functional foundation for your project.
 
-- [supabase-drizzle-actions.md](blueprints/supabase-drizzle-actions.md): Backend architecture with Supabase, Drizzle ORM, and Server Actions
-- [flux-with-replicate.md](blueprints/flux-with-replicate.md): Image generation using Flux and Replicate
+Coming soon...
 
 ## Libraries
 
-- [lib](lib): Contains documentation examples for library usage
+- [lib](./lib): Contains documentation examples for library usage
 
 ## Plugins
 
-### v0
-
-- [v0.dev](https://v0.dev/) is a tool for generating React components from screenshots and chat. Currently, they don't have a Cursor plugin, so you can use [v0](v0/v0.md) bridging prompt.
-- [v0.md](v0/v0.md): Guide for using v0.dev to generate component ideas and prompts
+Coming soon...
 
 ## Contributing
 
