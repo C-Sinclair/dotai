@@ -14,4 +14,7 @@
 
 5. Be prepared to help implement tasks and features listed in the Next Steps section, recalling relevant details for specific components or code areas.
 
-6. At the end of the session, create a new status update using the guidelines in `end-session.md`.
+6. Update the project specification file in `.ai/project/spec.md` with any changes or additions discussed during the session.
+
+7. At the end of the session, create a new status update using the guidelines in `end-session.md`.
+
